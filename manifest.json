@@ -1,0 +1,29 @@
+{
+    "name": "Mohamed Elnagar Portfolio",
+    "short_name": "Mohamed",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0e12f5ff",
+    "description": "Mohamed Elnagar - Android Developer specializing in Kotlin, Room, Paging, Hilt, and Firebase services.",
+    "icons": [
+      {
+        "src": "assets/profile_pic.jpg",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "assets/profile_pic.jpg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "lang": "en",
+    "dir": "ltr",
+    "categories": ["portfolio", "developer", "android", "software"],
+    "related_applications": [],
+    "prefer_related_applications": false
+  }
+  

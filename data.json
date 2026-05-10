@@ -1,0 +1,125 @@
+{
+  "personal": {
+    "name": "Ahmed Nassef",
+    "logoName": "Ahmed Nassef",
+    "role": "Receptionist & Law Graduate",
+    "location": "Qalyubia, Egypt",
+    "phone": "+20 106 714 1407",
+    "email": "Ahmednasefnasefahmed505@gmail.com",
+    "linkedin": "#",
+    "github": "#",
+    "whatsapp": "https://wa.me/201067141407",
+    "telegram": "#",
+    "heroSubtitle": "Law Graduate from Benha University with extensive experience in patient reception, legal affairs, and public relations. Dedicated to professional excellence and smooth workflow management.",
+    "contactHeadline": "I am open to new professional opportunities in legal affairs or administrative roles. Feel free to reach out via phone, email, or WhatsApp!",
+    "languages": "Arabic (Native), English (Good)"
+  },
+  "about": {
+    "image": "assets/profile_pic.jpeg",
+    "paragraphs": [
+      "<strong>Hello!</strong> I'm <span class=\"highlight\">Ahmed Nassef</span>, a Law Graduate from Benha University with a passion for legal affairs and professional administration.",
+      "Currently, I serve as a <span class=\"highlight\">Receptionist at Al Nas Hospital</span>, where I manage patient coordination, appointments, and inquiries with a high level of professionalism. My background includes rigorous training in law firms, where I honed my skills in drafting contracts and legal memos.",
+      "I am a quick learner who thrives under pressure and excels in teamwork. My goal is to leverage my legal education and administrative experience to contribute effectively to a dynamic professional environment.",
+      "Beyond my professional life, I am an avid reader and committed to continuous self-development."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Administrative & Reception",
+      "icon": "fas fa-user-tie",
+      "items": [
+        { "name": "Patient Coordination", "level": "Master" },
+        { "name": "Appointment Scheduling", "level": "Master" },
+        { "name": "Problem Solving", "level": "Advanced" },
+        { "name": "Customer Relations", "level": "Advanced" },
+        { "name": "Office Management", "level": "Advanced" }
+      ]
+    },
+    {
+      "category": "Legal & Academic",
+      "icon": "fas fa-balance-scale",
+      "items": [
+        { "name": "Legal Research", "level": "Advanced" },
+        { "name": "Drafting Contracts", "level": "Advanced" },
+        { "name": "Legal Memos", "level": "Advanced" },
+        { "name": "Public Relations", "level": "Advanced" },
+        { "name": "Law Firm Operations", "level": "Advanced" }
+      ]
+    },
+    {
+      "category": "Digital Skills",
+      "icon": "fas fa-laptop-code",
+      "items": [
+        { "name": "Microsoft Word", "level": "Master" },
+        { "name": "Microsoft Excel", "level": "Advanced" },
+        { "name": "Microsoft Outlook", "level": "Advanced" },
+        { "name": "PowerPoint", "level": "Advanced" }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "icon": "fas fa-users",
+      "items": [
+        { "name": "Communication", "level": "Master" },
+        { "name": "Teamwork", "level": "Master" },
+        { "name": "Working Under Pressure", "level": "Master" },
+        { "name": "Quick Learning", "level": "Master" }
+      ]
+    }
+  ],
+  "projects": [],
+  "experience": [
+    {
+      "period": "2024 – Present",
+      "role": "Receptionist",
+      "company": "Al Nas Hospital",
+      "tasks": [
+        "Receiving patients and organizing appointments and follow-ups.",
+        "Handling patient inquiries and complaints professionally.",
+        "Working on medical secretary tasks and organizing medical records and reports.",
+        "Coordinating between patients and doctors to ensure smooth workflow."
+      ]
+    },
+    {
+      "period": "2020 – 2022",
+      "role": "Legal Trainee",
+      "company": "Law Firm – Shibin Al-Qanater",
+      "tasks": [
+        "Writing legal memos and drafting contracts.",
+        "Preparing representation papers and legal documentation."
+      ]
+    },
+    {
+      "period": "2018 – 2019",
+      "role": "Legal Trainee",
+      "company": "Law Firm – Benha",
+      "tasks": [
+        "Assisted in legal research and case preparation.",
+        "Observed and participated in client consultations."
+      ]
+    }
+  ],
+  "education": {
+    "intro": "My educational background combines legal expertise with solid secondary education foundations.",
+    "cards": [
+      {
+        "title": "Faculty of Law",
+        "icon": "fas fa-university",
+        "period": "2018 – 2022",
+        "details": [
+          "Benha University",
+          "General Grade: Good"
+        ]
+      },
+      {
+        "title": "Secondary School",
+        "icon": "fas fa-school",
+        "period": "2015 – 2018",
+        "details": [
+          "Shibin Al-Qanater Secondary School for Boys",
+          "Literary Section – Grade: 70%"
+        ]
+      }
+    ]
+  }
+}
